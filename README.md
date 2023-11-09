@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [[https://project-blog-prompts-c5msxvs4m-fardins-projects-0e134bfe.vercel.app/](https://project-blog-prompts-c5msxvs4m-fardins-projects-0e134bfe.vercel.app/)] with your browser to see the result.
+Open [https://project-blog-prompts-c5msxvs4m-fardins-projects-0e134bfe.vercel.app/](https://project-blog-prompts-c5msxvs4m-fardins-projects-0e134bfe.vercel.app/) with your browser to see the result.
 
 ## Learn More
 
