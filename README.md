@@ -1,3 +1,12 @@
+Open [https://project-blog-prompts-c5msxvs4m-fardins-projects-0e134bfe.vercel.app/](https://project-blog-prompts-c5msxvs4m-fardins-projects-0e134bfe.vercel.app/) with your browser to see the result.
+
+## Features:
+
+1. Login with Google
+2. Create, Update, Delete Posts
+3. Copy posts to clipboard
+4. Search filters
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -13,8 +22,6 @@ pnpm dev
 # or
 bun dev
 ```
-
-Open [https://project-blog-prompts-c5msxvs4m-fardins-projects-0e134bfe.vercel.app/](https://project-blog-prompts-c5msxvs4m-fardins-projects-0e134bfe.vercel.app/) with your browser to see the result.
 
 ## Learn More
 
